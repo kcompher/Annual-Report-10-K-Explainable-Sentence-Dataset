@@ -5,22 +5,22 @@
 Explainable Sentence Dataset contains xxxxx sentences (extracted from 'Management's Discussion & Analysis' of Annual Reports (2001-2018)).
 
 ### Sample data
-
+/
 
 ### Dataset Reference
-
+/
 
 ## Preprocessing
-
+/
 
 ### Steps
-
+/
  
 ### Preprocessing Reference
 We followed the MDA extraction method from the paper ["Predicting Risk from Financial Reports with Regression"](https://homes.cs.washington.edu/~nasmith/papers/kogan+levin+routledge+sagi+smith.naacl09.pdf)
 
 ## Download
-
+/
 
 ## Acknowledgement
 
