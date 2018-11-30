@@ -2,25 +2,24 @@
 
 ## Explainable Sentence Dataset Description
 
-Explainable Sentence Dataset contains xxxxx sentences (extracted from 'Management's Discussion & Analysis' of Annual Reports (2001-2018)).
+Explainable Sentence Dataset contains ~160,000 sentences (extracted from 'Management's Discussion & Analysis' of Annual Reports (1996-2018)). Sentences from this dataset provide reasons for changes in the company's stock price.
 
 ### Sample data
 /
 
 ### Dataset Reference
-/
-
-## Preprocessing
-/
-
-### Steps
-/
+'Management's Discussion & Analysis' of Annual Reports(1996-2006) http://www.cs.cmu.edu/~ark/10K/
+These data were primarily by Bryan Routledge, Shimon Kogan, Jacob Sagi, and Noah Smith.
  
 ### Preprocessing Reference
 We followed the MDA extraction method from the paper ["Predicting Risk from Financial Reports with Regression"](https://homes.cs.washington.edu/~nasmith/papers/kogan+levin+routledge+sagi+smith.naacl09.pdf)
 
+### Preprocessing
+1. Extract "Management's Discussion & Analysis' from Annual Report.
+2. Extract explainable sentences from 1.
+
 ## Download
-/
+You can access to the dataset through this link. <http://openXai.org>(Currently not open yet, so if you want to download dataset please email to yeeun@unist.ac.kr)
 
 ## Acknowledgement
 
@@ -39,4 +38,4 @@ We followed the MDA extraction method from the paper ["Predicting Risk from Fina
 > <http://openXai.org>
 
 ### LICENSE
-> 
+>/
