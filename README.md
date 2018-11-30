@@ -7,6 +7,10 @@ Explainable Sentence Dataset contains ~160,000 sentences (extracted from 'Manage
 ### Sample data
 /
 
+### Preprocessing
+1. Extract "Management's Discussion & Analysis' from Annual Report.
+2. Extract explainable sentences from 1.
+
 ### Dataset Reference
 'Management's Discussion & Analysis' of Annual Reports(1996-2006) http://www.cs.cmu.edu/~ark/10K/
 These data were primarily by Bryan Routledge, Shimon Kogan, Jacob Sagi, and Noah Smith.
@@ -14,12 +18,9 @@ These data were primarily by Bryan Routledge, Shimon Kogan, Jacob Sagi, and Noah
 ### Preprocessing Reference
 We followed the MDA extraction method from the paper ["Predicting Risk from Financial Reports with Regression"](https://homes.cs.washington.edu/~nasmith/papers/kogan+levin+routledge+sagi+smith.naacl09.pdf)
 
-### Preprocessing
-1. Extract "Management's Discussion & Analysis' from Annual Report.
-2. Extract explainable sentences from 1.
-
 ## Download
-You can access to the dataset through this link. <http://openXai.org>(Currently not open yet, so if you want to download dataset please email to yeeun@unist.ac.kr)
+You can access to the dataset through this link. 
+<http://openXai.org>(Currently not open yet, so if you want to download dataset please email to yeeun@unist.ac.kr)
 
 ## Acknowledgement
 
