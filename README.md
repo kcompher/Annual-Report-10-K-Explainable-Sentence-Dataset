@@ -39,4 +39,4 @@ You can access to the dataset through this link.
 > <http://openXai.org>
 
 ### LICENSE
->/
+> This data is made available under the Creative [Commons CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/legalcode).
