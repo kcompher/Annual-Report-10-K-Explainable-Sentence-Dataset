@@ -6,8 +6,8 @@ Explainable Sentence Dataset contains ~160,000 sentences (extracted from 'Manage
 
 ### Sample data
 
->0001574910-10-K-20160413.txt
-> The increase in operating expense was primarily attributed to an increase in professional fees during fiscal 2015 resulting from our acquisition of various subsidiaries, our change in year end, the change in our control, and the various audit and reporting requirements associated with those activities.
+>[0001574910-10-K-20160413.txt]
+  The increase in operating expense was primarily attributed to an increase in professional fees during fiscal 2015 resulting from our acquisition of various subsidiaries, our change in year end, the change in our control, and the various audit and reporting requirements associated with those activities.
   The increase was due to cash received from financing activities during the 2015 that were not entirely spent.
   The increase was due to cash received from financing activities during the 2015 that were not entirely spent.
   The decrease in total liabilities was attributed to a reduction of notes payable to related and non-related parties.
