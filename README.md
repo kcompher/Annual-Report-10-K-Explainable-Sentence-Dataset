@@ -7,15 +7,15 @@ Explainable Sentence Dataset contains ~160,000 sentences (extracted from 'Manage
 ### Sample data
 
 >[0001574910-10-K-20160413.txt]<br />
-  The increase in operating expense was primarily attributed to an increase in professional fees during fiscal 2015 resulting from our acquisition of various subsidiaries, our change in year end, the change in our control, and the various audit and reporting requirements associated with those activities.
-  The increase was due to cash received from financing activities during the 2015 that were not entirely spent.
-  The increase was due to cash received from financing activities during the 2015 that were not entirely spent.
-  The decrease in total liabilities was attributed to a reduction of notes payable to related and non-related parties.
-  The increase in our working capital deficit was due to an increase in accrued expenses and an increase in related party loans during fiscal 2015.
-  The increase in our working capital deficit was due to an increase in accrued expenses and an increase in related party loans during fiscal 2015.
-  The decrease in cash used for operating activities was due to the fact that our company was limited to available cash on hand and amounts received from financing activities to repay outstanding operating activities during the year.
-  The decrease in cash used for operating activities was due to the fact that our company was limited to available cash on hand and amounts received from financing activities to repay outstanding operating activities during the year.
-  The increase in cash provided by financing activities is due to more proceeds from related parties.
+  The increase in operating expense was primarily attributed to an increase in professional fees during fiscal 2015 resulting from our acquisition of various subsidiaries, our change in year end, the change in our control, and the various audit and reporting requirements associated with those activities.<br />
+  The increase was due to cash received from financing activities during the 2015 that were not entirely spent.<br />
+  The increase was due to cash received from financing activities during the 2015 that were not entirely spent.<br />
+  The decrease in total liabilities was attributed to a reduction of notes payable to related and non-related parties.<br />
+  The increase in our working capital deficit was due to an increase in accrued expenses and an increase in related party loans during fiscal 2015.<br />
+  The increase in our working capital deficit was due to an increase in accrued expenses and an increase in related party loans during fiscal 2015.<br />
+  The decrease in cash used for operating activities was due to the fact that our company was limited to available cash on hand and amounts received from financing activities to repay outstanding operating activities during the year.<br />
+  The decrease in cash used for operating activities was due to the fact that our company was limited to available cash on hand and amounts received from financing activities to repay outstanding operating activities during the year.<br />
+  The increase in cash provided by financing activities is due to more proceeds from related parties.<br />
   The increase in cash provided by financing activities is due to more proceeds from related parties.
 
 
