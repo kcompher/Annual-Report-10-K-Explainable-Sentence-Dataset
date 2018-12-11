@@ -19,8 +19,7 @@ These data were primarily by Bryan Routledge, Shimon Kogan, Jacob Sagi, and Noah
 We followed the MDA extraction method from the paper ["Predicting Risk from Financial Reports with Regression"](https://homes.cs.washington.edu/~nasmith/papers/kogan+levin+routledge+sagi+smith.naacl09.pdf)
 
 ## Download
-You can access to the dataset through this link. 
-<http://openXai.org>(Currently not open yet, so if you want to download dataset please email to yeeun@unist.ac.kr)
+If you want to download dataset please email to yeeun@unist.ac.kr
 
 ## Acknowledgement
 
